@@ -13,7 +13,7 @@ public class Podcast extends Audio {
     }
 
     public String getDescricao() {
-        return descricao;
+        return descricao ;
     }
 
     public void setDescricao(String descricao) {

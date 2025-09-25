@@ -19,7 +19,7 @@ public class Audio {
     }
 
     public int getTotalCurtidas() {
-        return totalCurtidas;
+        return totalCurtidas ;
     }
 
     public double getClassificacao() {

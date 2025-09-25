@@ -18,7 +18,7 @@ public class Main {
 
         Podcast meuPodcast = new Podcast();
         meuPodcast.setTitulo("BolhaDev");
-        meuPodcast.setApresentador("Marcus Mendes.");
+        meuPodcast.setApresentador("Marcus Mendes");
 
         for (int i = 0; i < 5000; i++) {
             meuPodcast.reproduz();

@@ -26,7 +26,7 @@ public class Musica extends Audio {
     }
 
     public void setGenero(String genero) {
-        this.genero = genero;
+        this.genero = genero ;
     }
 
     @Override
